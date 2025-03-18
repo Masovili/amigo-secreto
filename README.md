@@ -43,8 +43,6 @@ Acesse o projeto através do [link aqui](https://vercel.com/ana-rachel-rodrigues
 7. Se tentar sortear com menos de três nomes na lista, um alerta informará que é necessário adicionar mais nomes.
 8. Após o sorteio, clique em "Reiniciar o sorteio" para começar novamente.
 
-![Exibição do Projeto](assets/AS-.mp4)
-
 ## 💻 Autor
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/61015082?v=4" width="115"><br><sub>Ingrid Freitas</sub>](https://github.com/ingridfreitas) |
