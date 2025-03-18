@@ -35,8 +35,8 @@ Acesse o projeto através do [link aqui](https://amigo-secreto-ashy-six.vercel.a
 ## 🎥 Como usar a aplicação:
 
 1. Acesse o link do projeto/desafio para ser direcionado ao domínio.
-2. Clique em "PRODUCTION DEPLOYMENT".
-3. Após o alerta, clique em "OK" para reiniciar o sorteio.
+2. Clique em "Digite um Nome".
+3. Digite os nomes das pessoas participantes.
 4. Digite cada nome no campo de entrada "Digite o nome do seu amigo" e clique em "Adicionar".
 5. Quando terminar de adicionar, clique em "Sortear amigo" para ver o resultado do sorteio.
 6. Caso o campo de nome esteja vazio e o botão "Adicionar" seja clicado, um alerta será exibido solicitando que você insira um nome.
@@ -45,5 +45,5 @@ Acesse o projeto através do [link aqui](https://amigo-secreto-ashy-six.vercel.a
 
 ## 💻 Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/61015082?v=4" width="115"><br><sub>Ingrid Freitas</sub>](https://github.com/ingridfreitas) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/61015082?v=4" width="115"><br><sub>Matheus Souza</sub>](https://github.com/ingridfreitas) |
 | :---: |
