@@ -30,7 +30,7 @@ Este projeto foi desenvolvido como requisito obrigatório para a conclusão dos 
 
 ## 🔗 Link do projeto
 
-Acesse o projeto através do [link aqui](https://vercel.com/ana-rachel-rodrigues-da-costas-projects/challenge-amigo-secreto-oficial).
+Acesse o projeto através do [link aqui](https://amigo-secreto-ashy-six.vercel.app/). 
 
 ## 🎥 Como usar a aplicação:
 
