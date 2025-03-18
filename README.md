@@ -45,5 +45,5 @@ Acesse o projeto através do [link aqui](https://amigo-secreto-ashy-six.vercel.a
 
 ## 💻 Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/61015082?v=4" width="115"><br><sub>Matheus Souza</sub>](https://github.com/Masovili) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/203662228?v=4" width="115"><br><sub>Matheus Souza</sub>](https://github.com/Masovili) |
 | :---: |
